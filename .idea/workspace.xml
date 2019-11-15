@@ -2,46 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f79bf0cd-4e06-4286-a443-067d71beaf86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/btre_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/static/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btre/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/choices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_topbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_alerts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btre/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btre/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/listings/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/listings/listings.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/listings/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/partials/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +47,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T6V61jZ6pwzRFvPrGv7r7T2IXI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -121,8 +107,22 @@
       <workItem from="1572787672467" duration="8947000" />
       <workItem from="1573126231170" duration="3230000" />
       <workItem from="1573200860511" duration="25344000" />
-      <workItem from="1573383289482" duration="2916000" />
+      <workItem from="1573383289482" duration="9485000" />
+      <workItem from="1573502392188" duration="146000" />
+      <workItem from="1573569618514" duration="9452000" />
+      <workItem from="1573637458497" duration="5571000" />
+      <workItem from="1573707422839" duration="1111000" />
+      <workItem from="1573708806364" duration="2478000" />
+      <workItem from="1573809291189" duration="1220000" />
     </task>
+    <task id="LOCAL-00001" summary="this time it worked">
+      <created>1573386282440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573386282440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,5 +140,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="this time it worked" />
+    <option name="LAST_COMMIT_MESSAGE" value="this time it worked" />
   </component>
 </project>
